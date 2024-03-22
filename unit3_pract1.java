@@ -1,4 +1,4 @@
-package p.*;
+package p.pack;
 
 class unit3_pract1
 {
